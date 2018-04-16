@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "756489410128",
+    "firebase_url": "https://login-a36eb.firebaseio.com",
+    "project_id": "login-a36eb",
+    "storage_bucket": "login-a36eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756489410128:android:1b1241538175ea67",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756489410128-42tcjus088j4ngdca51aiprh5b4fk23c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC47WFYMmcghhH66FI8OVkh3abr3UQatiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
